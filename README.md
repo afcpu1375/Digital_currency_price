@@ -1,4 +1,4 @@
-# digitalcurrency
+# Digital currency price
 
 A new Flutter project.
 
