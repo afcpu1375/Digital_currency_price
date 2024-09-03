@@ -1,8 +1,20 @@
 # Digital currency price
 
-A new Flutter project.
+This is an app in Flutter language where you can see the current price of 100 popular digital currencies in the world.
+It also has the ability to search currency
 
-## Getting Started
+******************************************
+![Screenshot_1725374506](https://github.com/user-attachments/assets/b1e1223e-4a45-440c-83e7-a463097c6359)
+
+******************************************
+
+![Screenshot_1725374648](https://github.com/user-attachments/assets/8eae28ca-ecce-4912-be47-f3995f0db439)
+
+******************************************
+
+
+![Screenshot_1725374658](https://github.com/user-attachments/assets/132f0f99-2f1f-42ad-a7fd-e4411d249fcc)
+
 
 This project is a starting point for a Flutter application.
 
